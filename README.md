@@ -24,12 +24,12 @@ This repository contains the code and documentation for a data wrangling project
 4. **Data Normalization**
 5. **Categorical Data Encoding**
 6. **Feature Engineering**
-### Description of the Data Used
+   
+## Description of the Data Used
 
-## The Dataset Used
-in this project contains comprehensive statistics on football players. It includes a variety of features such as numerical attributes (e.g., player ratings, physical characteristics, performance metrics) and categorical attributes (e.g., position, contract details, preferred foot). The data spans multiple aspects of player performance and characteristics, providing a rich source for detailed analysis and modeling.
+The dataset used in this project contains comprehensive statistics on football players. It includes a variety of features such as numerical attributes (e.g., player ratings, physical characteristics, performance metrics) and categorical attributes (e.g., position, contract details, preferred foot). The data spans multiple aspects of player performance and characteristics, providing a rich source for detailed analysis and modeling.
 
-### Key features include:
+Key features include:
 - **Player Attributes:** Physical attributes like height, weight, and age, as well as performance metrics such as passing, shooting, and goalkeeping skills.
 - **Positional Information:** Player positions and specific roles on the field.
 - **Contract Details:** Information on contract duration, status, and joining dates.
